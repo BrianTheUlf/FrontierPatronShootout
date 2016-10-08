@@ -1,33 +1,3 @@
-%YAML 1.1
-%TAG !u! tag:unity3d.com,2011:
---- !u!1045 &1
-EditorBuildSettings:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Scenes:
-  - enabled: 0
-    path: Assets/3rd Party/UFPS/Base/Content/Levels/DemoScene3/UFPS_DemoScene3.unity
-  - enabled: 0
-    path: Assets/3rd Party/UFPS/Base/Content/Levels/DemoScene1/UFPS_DemoScene1.unity
-  - enabled: 0
-    path: Assets/3rd Party/UFPS/Base/Content/Levels/DemoScene2/UFPS_DemoScene2.unity
-  - enabled: 0
-    path: Assets/3rd Party/UFPS/Base/Content/Levels/CleanScene/UFPS_CleanScene.unity
-  - enabled: 0
-    path: Assets/3rd Party/UFPS/Base/Content/Levels/SkyCity/UFPS_SkyCity.unity
-  - enabled: 0
-    path: Assets/UFPS/Multiplayer/Content/Levels/Examples/UFPSMP_GameModes.unity
-  - enabled: 0
-    path: Assets/UFPS/Multiplayer/Content/Levels/HelipadEscape/UFPSMP_HelipadEscape.unity
-  - enabled: 0
-    path: Assets/UFPS/Multiplayer/Content/Levels/Examples/UFPSMP_SimpleChat.unity
-  - enabled: 0
-    path: Assets/3rd Party/UFPS/Base/Content/Levels/DemoScene3/UFPS_DemoScene3.unity
-  - enabled: 0
-    path: Assets/UFPS/Multiplayer/Content/Levels/HelipadEscape/UFPSMP_HelipadEscape_Menu.unity
-  - enabled: 0
-    path: Assets/UFPS/Multiplayer/Content/Levels/HelipadEscape/UFPSMP_HelipadEscape.unity
-  - enabled: 0
-    path: Assets/UFPS/Multiplayer/Content/Levels/Examples/UFPSMP_TestMap_Menu.unity
-  - enabled: 0
-    path: Assets/UFPS/Multiplayer/Content/Levels/Examples/UFPSMP_TestMap.unity
+version https://git-lfs.github.com/spec/v1
+oid sha256:d7d5bd4841261c117fee3aa4f028302c25643b96e09d161daeda6a35097e1fa2
+size 1435

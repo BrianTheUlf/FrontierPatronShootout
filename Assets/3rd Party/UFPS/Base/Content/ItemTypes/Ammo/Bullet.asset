@@ -1,20 +1,3 @@
-%YAML 1.1
-%TAG !u! tag:unity3d.com,2011:
---- !u!114 &11400000
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: cd9dde0a70a810340a08feebb42bebc5, type: 3}
-  m_Name: Bullet
-  m_EditorClassIdentifier: 
-  IndefiniteArticle: a
-  DisplayName: bullet
-  Description: 
-  Icon: {fileID: 2800000, guid: 5f0f88702fe3baa4793a297bced9d8c0, type: 3}
-  Space: 0
-  itemTypeHelp: 205
-  unitTypeHelp: 199
+version https://git-lfs.github.com/spec/v1
+oid sha256:5c6f36dd3263f51eb2d4edc29e34a6cf937b1e28863faeede11207c5f3521ecd
+size 546
